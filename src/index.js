@@ -8,9 +8,9 @@ import ErrorBoundry from './components/error-boundry';
 ReactDOM.render(
   <Provider store={store}>
     <ErrorBoundry>
-        <Router>
+        <HashRouter>
           <App />
-        </Router>
+        </HashRouter>
     </ErrorBoundry>
   </Provider>,
   document.getElementById("root")
