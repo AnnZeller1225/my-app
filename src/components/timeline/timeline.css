@@ -1,0 +1,32 @@
+.timeline-w {
+    width: 100%;
+    /* max-width: 900px; */
+    padding: 2px 25px;
+    /* width: 700px; */
+    border-radius: 20px;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.63);
+    border: 1px dashed rgba(196, 196, 196, 0.568);
+  
+}
+.t-wrap {
+    margin: 30px auto;
+    /* border: 1px dashed rgba(146, 18, 18, 0.568); */
+}
+.times {
+    /* border: 1px solid red; */
+    margin: 10px auto;
+    display: flex;
+    padding: 3px 25px;
+}
+.times-el {
+    width: 100%;
+    /* border: 1px solid rgb(207, 203, 203); */
+    max-width: 70px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 144.2%;
+    color: #C4CACB;
+}
