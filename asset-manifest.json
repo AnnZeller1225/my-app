@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.02ecad8a.chunk.css",
+    "main.js": "/my-app/static/js/main.81f174dc.chunk.js",
+    "main.js.map": "/my-app/static/js/main.81f174dc.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.58a6d01e.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.58a6d01e.js.map",
+    "static/js/2.9351d29f.chunk.js": "/my-app/static/js/2.9351d29f.chunk.js",
+    "static/js/2.9351d29f.chunk.js.map": "/my-app/static/js/2.9351d29f.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.8f2f3c59fc707241802ad30a9fbd3d44.js": "/my-app/precache-manifest.8f2f3c59fc707241802ad30a9fbd3d44.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.02ecad8a.chunk.css.map": "/my-app/static/css/main.02ecad8a.chunk.css.map",
+    "static/js/2.9351d29f.chunk.js.LICENSE.txt": "/my-app/static/js/2.9351d29f.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/my-app/static/media/Roboto-Regular.11eabca2.ttf",
+    "static/media/Vector (Stroke).svg": "/my-app/static/media/Vector (Stroke).2786ee48.svg",
+    "static/media/play.svg": "/my-app/static/media/play.a2f51fff.svg",
+    "static/media/plus.svg": "/my-app/static/media/plus.079d28e6.svg",
+    "static/media/x.svg": "/my-app/static/media/x.138d4892.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58a6d01e.js",
+    "static/js/2.9351d29f.chunk.js",
+    "static/css/main.02ecad8a.chunk.css",
+    "static/js/main.81f174dc.chunk.js"
+  ]
+}
